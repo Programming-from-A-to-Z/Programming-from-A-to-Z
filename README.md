@@ -4,8 +4,7 @@
 
 #### (or How i learned to stop worrying and love the javascript.)
 
-What can computation add to human communication? Creating computer applications, instead of just using them, will give you a deeper understanding of the essential possibilities of computation. The course focuses on the fundamentals of programming the computer in the context of language and words. We'll explore topics ranging from evaluating text according to its statistical properties to the automated production of text with probabilistic methods to text visualization.  Students will learn the JavaScript programming languages and develop projects that can be shared and interacted with online.  
-The end of the semester is spent developing an idea for a final project and implementing it using computer programming.	
+What can computation add to human communication? Creating computer applications, instead of just using them, will give you a deeper understanding of the essential possibilities of computation. The course focuses on the fundamentals of programming the computer in the context of language and words. We'll explore topics ranging from evaluating text according to its statistical properties to the automated production of text with probabilistic methods to text visualization.  Students will learn the JavaScript programming languages and develop projects that can be shared and interacted with online.   The end of the semester is spent developing an idea for a final project and implementing it using computer programming.	
 
 ### Week 1 -- Introduction
 - Why are we here? What is computational media?  What is programming? What is it good for? What kinds of programming languages are there?
