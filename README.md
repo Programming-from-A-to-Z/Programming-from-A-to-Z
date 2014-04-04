@@ -32,9 +32,13 @@ What can computation add to human communication? Creating computer applications,
 
 ### Week 6 -- Regular Expressions
 
-### Week 7 -- Generative Text: Markov, Context Free Grammar - PROJECT 1
+### Week 7 -- Generating Text - PROJECT 1
+* Markov
+* Context Free Grammar
 
-### Week 8 -- Analyzing / Visualizing Text - PROJECT 2
+### Week 8 -- Analyzing Text - PROJECT 2
+- concordance
+- visualization / drawing
 
 ### Week 9 -- Bonus Topics
 
